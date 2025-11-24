@@ -2,6 +2,8 @@
 
 This is a library that lets you use a MIDI grid controller as an LED matrix.
 
+[Demo](https://github.com/user-attachments/assets/6840c68f-1977-487c-956f-7a4ca90a0306)
+
 ## Supported Devices
 
 1. LaunchPad Mini Mk3
