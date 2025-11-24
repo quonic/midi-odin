@@ -22,4 +22,5 @@ Clone this repository, make your changes, submit a PR.
 ## Reference Material
 
 [Launchpad Mini MK3 Downloads](https://downloads.novationmusic.com/novation/launchpad-mk3/launchpad-mini-mk3-0)
+
 [Launchpad Mini MK3 Programmer's referencfe manual](https://fael-downloads-prod.focusrite.com/customer/prod/s3fs-public/downloads/Launchpad%20Mini%20-%20Programmers%20Reference%20Manual.pdf)
